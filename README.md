@@ -29,3 +29,24 @@ Aqui, foi desenvolvido um esquema conceitual para um sistema de gerenciamento de
 - Atribuição de equipes de mecânicos e cálculo de custos de mão de obra e peças
 
 `📂 Arquivo: OrderService-CarShop`
+
+### 📌 4️⃣ Construa um Projeto Lógico de Banco de Dados do Zero
+
+Este projeto de banco de dados foi modelado para gerenciar ordens de serviço, clientes e responsáveis por análises. A estrutura lógica do banco de dados é composta pelas seguintes tabelas:
+
+**✔️ Tópicos abordados:**
+
+- Estruturação das tabelas: Client, Order, PersonInCharge, AnalysisOrder, ServiceOrder
+- Relacionamento entre as tabelas e validação de ordens
+- Registro do status das ordens validadas
+- Cadastro de clientes e ordens de serviço
+- Análise de ordens por responsáveis
+- Validação e geração de status de serviço
+- Recuperações simples com SELECT Statement;
+- Filtros com WHERE Statement;
+- Crie expressões para gerar atributos derivados;
+- Defina ordenações dos dados com ORDER BY;
+- Condições de filtros aos grupos – HAVING Statement;
+- Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
+
+`📂 Arquivo: Construa um Projeto Lógico de Banco de Dados do Zero.sql`
