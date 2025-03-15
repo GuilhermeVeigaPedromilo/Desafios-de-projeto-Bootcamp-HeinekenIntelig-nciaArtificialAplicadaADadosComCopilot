@@ -30,6 +30,20 @@ Aqui, foi desenvolvido um esquema conceitual para um sistema de gerenciamento de
 
 `📂 Arquivo: OrderService-CarShop`
 
+### 📌 3️⃣ Construindo seu Primeiro Projeto Lógico de Banco de Dados
+Neste desafio, foi realizado o projeto lógico e a implementação de um banco de dados relacional para um sistema de E-Commerce. A modelagem segue as melhores práticas de organização de entidades, definição de relacionamentos e regras de integridade para garantir um funcionamento eficiente do banco de dados.
+
+✔️ Tópicos abordados:
+
+- Modelagem lógica do banco de dados com tabelas normalizadas
+- Definição de chaves primárias e estrangeiras para garantir integridade referencial
+- Implementação de restrições de unicidade e validações
+- Cadastro e gerenciamento de clientes, produtos, pedidos e pagamentos
+- Controle de estoque e relacionamento com fornecedores
+-  Registro e acompanhamento de entregas
+
+`📂 Arquivo: Construindo seu Primeiro Projeto Lógico de Banco de Dados.sql`
+
 ### 📌 4️⃣ Construa um Projeto Lógico de Banco de Dados do Zero
 
 Este projeto de banco de dados foi modelado para gerenciar ordens de serviço, clientes e responsáveis por análises. A estrutura lógica do banco de dados é composta pelas seguintes tabelas:
