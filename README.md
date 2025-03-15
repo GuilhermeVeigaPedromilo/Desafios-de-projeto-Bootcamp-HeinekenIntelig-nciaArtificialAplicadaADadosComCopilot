@@ -46,7 +46,7 @@ Neste desafio, foi realizado o projeto lógico e a implementação de um banco d
 
 ### 📌 4️⃣ Construa um Projeto Lógico de Banco de Dados do Zero
 
-Este projeto de banco de dados foi modelado para gerenciar ordens de serviço, clientes e responsáveis por análises. A estrutura lógica do banco de dados é composta pelas seguintes tabelas:
+Este projeto de banco de dados foi modelado para gerenciar ordens de serviço, clientes e responsáveis por análises.
 
 **✔️ Tópicos abordados:**
 
