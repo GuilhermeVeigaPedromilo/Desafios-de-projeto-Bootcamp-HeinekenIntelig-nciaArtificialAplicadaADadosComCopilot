@@ -64,3 +64,18 @@ Este projeto de banco de dados foi modelado para gerenciar ordens de serviço, c
 - Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
 
 `📂 Arquivo: Construa um Projeto Lógico de Banco de Dados do Zero.sql`
+
+
+### 📌 5️⃣ Criando um Dashboard de Vendas do Xbox com Excel
+
+O desafio consiste em desenvolver um Dashboard de Vendas no Excel para acompanhar e visualizar o desempenho das assinaturas do Xbox Game Pass e seus diferentes planos. O objetivo principal é transformar dados brutos em gráficos e indicadores visuais, permitindo uma análise eficiente das vendas e auxiliando na tomada de decisões estratégicas.
+
+**✔️ Tópicos abordados:**
+
+- Desenvolvimento de dashboards no Excel;
+- Criação de tabelas dinâmicas;
+- Implementação de elementos visuais com contextos de dados;
+- Segmentação de dados;
+- Desenvolvimento com UX/UI.
+
+`📂 Arquivo: Criando um Dashboard de Vendas do Xbox com Excel.xlsx`
